@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/live/live-feature-overview/", "/docs/grafana/latest/live"]
+aliases = ["/docs/grafana/latest/live/", "/docs/grafana/latest/live/live-feature-overview/"]
 title = "Grafana Live"
 weight = 115
 +++

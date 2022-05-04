@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/explore/trace-integration"]
+aliases = ["/docs/grafana/latest/explore/trace-integration/"]
 description = "Tracing in Explore"
 keywords = ["explore", "trace"]
 title = "Tracing in Explore"

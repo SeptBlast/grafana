@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/release-notes/release-notes-8-5-1"]
+aliases = ["/docs/grafana/latest/release-notes/release-notes-8-5-1/"]
 hide_menu = true
 title = "Release notes for Grafana 8.5.1"
 +++

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/basics/timeseries"]
+aliases = ["/docs/grafana/latest/basics/timeseries/"]
 description = "Introduction to time series"
 keywords = ["grafana", "intro", "guide", "concepts", "timeseries"]
 title = "Intro to time series"

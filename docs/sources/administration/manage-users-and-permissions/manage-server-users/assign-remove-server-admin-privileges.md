@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/assign-remove-server-admin-privileges/", "/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/assign-remove-server-admin-privileges"]
+aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/assign-remove-server-admin-privileges/"]
 title = "Assign or remove Grafana server administrator privileges"
 weight = 20
 +++

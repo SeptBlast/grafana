@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/reference/datalinks/", "/docs/grafana/latest/linking/data-links"]
+aliases = ["/docs/grafana/latest/linking/data-links/", "/docs/grafana/latest/reference/datalinks/"]
 keywords = ["grafana", "data links", "documentation", "playlist"]
 title = "Data links"
 +++

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/http_api/curl-examples"]
+aliases = ["/docs/grafana/latest/http_api/curl-examples/"]
 description = "cURL examples"
 keywords = ["grafana", "http", "documentation", "api", "curl"]
 title = "cURL examples"

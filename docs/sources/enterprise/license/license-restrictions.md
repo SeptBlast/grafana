@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/license/license-restrictions", "/docs/grafana/latest/enterprise/license-restrictions"]
+aliases = ["/docs/grafana/latest/enterprise/license/license-restrictions/", "/docs/grafana/latest/enterprise/license-restrictions/"]
 description = "Grafana Enterprise license restrictions"
 keywords = ["grafana", "licensing", "enterprise"]
 title = "License restrictions"

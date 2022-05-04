@@ -1,5 +1,5 @@
 +++
-aliases = ["", "/docs/grafana/latest/administration/database-encryption"]
+aliases = ["/docs/grafana/latest/administration/database-encryption/"]
 description = "Grafana database encryption"
 keywords = ["grafana", "database", "encryption", "envelope encryption", "documentation"]
 title = "Database encryption"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/dashboard/dashboards/", "/docs/grafana/latest/dashboards"]
+aliases = ["/docs/grafana/latest/dashboards/", "/docs/grafana/latest/features/dashboard/dashboards/"]
 title = "Dashboards"
 weight = 80
 +++

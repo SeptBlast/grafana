@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/about-users-and-permissions", "/docs/grafana/latest/manage-users/", "/docs/grafana/latest/administration/manage-users-and-permissions/about-users-and-permissions/", "/docs/grafana/latest/permissions/overview/", "/docs/grafana/latest/permissions/", "/docs/grafana/latest/permissions/organization_roles/"]
+aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/about-users-and-permissions/", "/docs/grafana/latest/manage-users/", "/docs/grafana/latest/permissions/overview/", "/docs/grafana/latest/permissions/", "/docs/grafana/latest/permissions/organization_roles/"]
 title = "About users and permissions"
 weight = 100
 +++

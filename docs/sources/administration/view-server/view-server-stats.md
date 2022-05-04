@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/admin/view-server-stats/", "/docs/grafana/latest/administration/view-server/view-server-stats"]
+aliases = ["/docs/grafana/latest/admin/view-server-stats/", "/docs/grafana/latest/administration/view-server/view-server-stats/"]
 keywords = ["grafana", "server", "statistics"]
 title = "View server stats"
 weight = 400

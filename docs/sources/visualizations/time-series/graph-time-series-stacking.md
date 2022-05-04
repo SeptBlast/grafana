@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/panels/histogram/", "/docs/grafana/latest/panels/visualizations/time-series/graph-time-series-stacking/", "/docs/grafana/latest/visualizations/time-series/graph-time-series-stacking"]
+aliases = ["/docs/grafana/latest/visualizations/time-series/graph-time-series-stacking/", "/docs/grafana/latest/features/panels/histogram/", "/docs/grafana/latest/panels/visualizations/time-series/graph-time-series-stacking/"]
 keywords = ["grafana", "time series panel", "documentation", "guide", "graph"]
 title = "Graph stacked time series"
 weight = 400

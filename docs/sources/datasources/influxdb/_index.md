@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/datasources/influxdb", "/docs/grafana/latest/datasources/influxdb"]
+aliases = ["/docs/grafana/latest/features/datasources/influxdb/", "/docs/grafana/latest/datasources/influxdb/"]
 description = "Guide for using InfluxDB in Grafana"
 keywords = ["grafana", "influxdb", "guide", "flux"]
 title = "InfluxDB data source"

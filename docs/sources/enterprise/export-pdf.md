@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/export-pdf"]
+aliases = ["/docs/grafana/latest/enterprise/export-pdf/"]
 description = ""
 keywords = ["grafana", "export", "pdf", "share"]
 title = "Export dashboard as PDF"

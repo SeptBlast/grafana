@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/manage-user-preferences/", "/docs/grafana/latest/administration/manage-user-preferences", "/docs/grafana/latest/administration/change-your-password/"]
+aliases = ["/docs/grafana/latest/administration/change-your-password/", "/docs/grafana/latest/administration/manage-user-preferences/"]
 description = "Learn how to update your user preferences and switch organizations"
 keywords = ["password", "change", "organization", "change"]
 title = "Manage user preferences"

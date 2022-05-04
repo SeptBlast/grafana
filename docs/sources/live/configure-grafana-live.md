@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/live/configure-grafana-live"]
+aliases = ["/docs/grafana/latest/live/configure-grafana-live/"]
 description = "Grafana Live configuration guide"
 keywords = ["Grafana", "live", "guide", "websocket"]
 title = "Configure Grafana Live"

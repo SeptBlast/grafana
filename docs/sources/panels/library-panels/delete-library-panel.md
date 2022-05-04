@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/sources/panels/library-panels/delete-library-panel/", "/docs/grafana/latest/panels/library-panels/delete-library-panel"]
+aliases = ["/docs/sources/panels/library-panels/delete-library-panel/", "/docs/grafana/latest/panels/library-panels/delete-library-panel/"]
 title = "Delete a Grafana library panel"
 weight = 60
 +++

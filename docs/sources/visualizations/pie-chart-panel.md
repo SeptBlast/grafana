@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/panels/visualizations/pie-chart-pane/", "/docs/grafana/latest/visualizations/pie-chart-panel"]
+aliases = ["/docs/grafana/latest/visualizations/pie-chart-panel/", "/docs/grafana/latest/panels/visualizations/pie-chart-pane/"]
 keywords = ["grafana", "pie chart"]
 title = "Pie chart"
 weight = 850

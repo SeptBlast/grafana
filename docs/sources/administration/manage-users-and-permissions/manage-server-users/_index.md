@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/manage-users/server-admin/server-admin-manage-users/", "/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/", "/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users", "/docs/grafana/latest/manage-users/server-admin/"]
+aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/", "/docs/grafana/latest/manage-users/server-admin/server-admin-manage-users/", "/docs/grafana/latest/manage-users/server-admin/"]
 title = "Manage users globally"
 weight = 300
 +++

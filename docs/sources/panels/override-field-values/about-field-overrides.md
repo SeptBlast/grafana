@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/sources/panels/override-field-values/about-field-overrides/", "/docs/grafana/latest/panels/override-field-values/about-field-overrides"]
+aliases = ["/docs/grafana/latest/panels/override-field-values/about-field-overrides/", "/docs/sources/panels/override-field-values/about-field-overrides/"]
 title = "About field overrides"
 weight = 10
 +++

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/datasources/cloudwatch", "/docs/grafana/latest/datasources/aws-cloudwatch/aws-authentication"]
+aliases = ["/docs/grafana/latest/datasources/aws-cloudwatch/aws-authentication/", "/docs/grafana/latest/datasources/cloudwatch/"]
 description = "AWS authentication"
 keywords = ["grafana", "aws", "authentication"]
 title = "Authentication"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/dashboards/shortcuts"]
+aliases = ["/docs/grafana/latest/dashboards/shortcuts/"]
 title = "Keyboard shortcuts"
 weight = 10
 +++

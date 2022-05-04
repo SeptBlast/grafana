@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/sources/panels/working-with-panels/add-title-and-description/", "/docs/grafana/latest/panels/working-with-panels/add-title-and-description"]
+aliases = ["/docs/sources/panels/working-with-panels/add-title-and-description/", "/docs/grafana/latest/panels/working-with-panels/add-title-and-description/"]
 title = "Add a title and description to a panel"
 weight = 30
 +++

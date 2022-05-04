@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/activate-aws-marketplace-license/activate-license-on-instance-outside-aws", "/docs/grafana/latest/enterprise/license/activate-aws-marketplace-license/activate-license-on-instance-outside-aws"]
+aliases = ["/docs/grafana/latest/enterprise/license/activate-aws-marketplace-license/activate-license-on-instance-outside-aws/", "/docs/grafana/latest/enterprise/activate-aws-marketplace-license/activate-license-on-instance-outside-aws/"]
 description = "Activate a Grafana Enterprise license from AWS on an instance deployed outside of AWS"
 keywords = ["grafana", "enterprise", "aws", "marketplace", "activate"]
 title = "Activate a Grafana Enterprise license from AWS on an instance deployed outside of AWS"

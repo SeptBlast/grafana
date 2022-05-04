@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/panels/stat/", "/docs/grafana/latest/features/panels/singlestat/", "/docs/grafana/latest/reference/singlestat/", "/docs/grafana/latest/panels/visualizations/stat-panel/", "/docs/grafana/latest/visualizations/stat-panel"]
+aliases = ["/docs/grafana/latest/visualizations/stat-panel/", "/docs/grafana/latest/features/panels/stat/", "/docs/grafana/latest/features/panels/singlestat/", "/docs/grafana/latest/reference/singlestat/", "/docs/grafana/latest/panels/visualizations/stat-panel/"]
 description = "Stat panel documentation"
 keywords = ["grafana", "docs", "stat panel"]
 title = "Stat"

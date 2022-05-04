@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/add-user/", "/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/add-user"]
+aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/manage-server-users/add-user/"]
 title = "Add a user"
 weight = 10
 +++

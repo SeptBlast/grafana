@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/installation/configure-docker/", "/docs/grafana/latest/administration/configure-docker"]
+aliases = ["/docs/grafana/latest/administration/configure-docker/", "/docs/grafana/latest/installation/configure-docker/"]
 description = "Guide for configuring the Grafana Docker image"
 keywords = ["grafana", "configuration", "documentation", "docker"]
 title = "Configure Grafana Docker image"

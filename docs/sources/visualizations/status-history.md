@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/panels/visualizations/status-history/", "/docs/grafana/latest/visualizations/status-history"]
+aliases = ["/docs/grafana/latest/visualizations/status-history/", "/docs/grafana/latest/panels/visualizations/status-history/"]
 description = "Status history visualization"
 keywords = ["grafana", "docs", "status history", "panel"]
 title = "Status history"

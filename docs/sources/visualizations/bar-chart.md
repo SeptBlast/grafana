@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/panels/visualizations/bar-chart/", "/docs/grafana/latest/visualizations/bar-chart"]
+aliases = ["/docs/grafana/latest/visualizations/bar-chart/", "/docs/grafana/latest/panels/visualizations/bar-chart/"]
 description = "Bar chart visualization"
 keywords = ["grafana", "docs", "bar chart", "panel", "barchart"]
 title = "Bar chart"

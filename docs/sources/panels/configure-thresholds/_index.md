@@ -1,10 +1,10 @@
 ---
 aliases:
+  - /docs/grafana/latest/panels/configure-thresholds/
   - docs/grafana/latest/panels/specify-thresholds/about-thresholds/
   - docs/grafana/latest/panels/specify-thresholds/add-a-threshold/
   - docs/grafana/latest/panels/specify-thresholds/add-threshold-to-graph/
   - docs/grafana/latest/panels/specify-thresholds/delete-a-threshold/
-  - /docs/grafana/latest/panels/configure-thresholds
   - docs/grafana/latest/panels/thresholds/
   - docs/grafana/latest/panels/
 description: This section includes information about using thresholds in your visualizations.

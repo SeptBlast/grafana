@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/enterprise-encryption/using-hashicorp-key-vault-to-encrypt-database-secrets"]
+aliases = ["/docs/grafana/latest/enterprise/enterprise-encryption/using-hashicorp-key-vault-to-encrypt-database-secrets/"]
 description = "Using Hashicorp Vault to encrypt database secrets"
 keywords = ["grafana", "Hashicorp Vault integration"]
 title = "Hashicorp Vault"

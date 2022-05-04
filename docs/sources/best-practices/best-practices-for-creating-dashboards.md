@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/best-practices/best-practices-for-creating-dashboards"]
+aliases = ["/docs/grafana/latest/best-practices/best-practices-for-creating-dashboards/"]
 description = "Best practices for creating dashboards in Grafana"
 title = "Best practices for creating dashboards"
 weight = 100

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/reference/dashlist/", "/docs/grafana/latest/features/panels/dashlist/", "/docs/grafana/latest/panels/visualizations/dashboard-list-panel/", "/docs/grafana/latest/visualizations/dashboard-list-panel"]
+aliases = ["/docs/grafana/latest/visualizations/dashboard-list-panel/", "/docs/grafana/latest/reference/dashlist/", "/docs/grafana/latest/features/panels/dashlist/", "/docs/grafana/latest/panels/visualizations/dashboard-list-panel/"]
 keywords = ["grafana", "dashboard list", "documentation", "panel", "dashlist"]
 title = "Dashboard list"
 weight = 300

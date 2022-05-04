@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/alerting/unified-alerting/alerting-rules/create-mimir-loki-managed-recording-rule"]
+aliases = ["/docs/grafana/latest/alerting/unified-alerting/alerting-rules/create-mimir-loki-managed-recording-rule/"]
 description = "Create Grafana Mimir or Loki managed recording rule"
 keywords = ["grafana", "alerting", "guide", "rules", "recording rules", "create"]
 title = "Create Grafana Mimir or Loki managed recording rule"

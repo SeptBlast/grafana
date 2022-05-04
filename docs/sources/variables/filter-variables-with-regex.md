@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/variables/filter-variables-with-regex"]
+aliases = ["/docs/grafana/latest/variables/filter-variables-with-regex/"]
 keywords = ["grafana", "templating", "documentation", "guide", "template", "variable"]
 title = "Filter variables with regex"
 weight = 700

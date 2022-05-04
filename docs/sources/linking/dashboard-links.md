@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/linking/dashboard-links"]
+aliases = ["/docs/grafana/latest/linking/dashboard-links/"]
 description = ""
 keywords = ["grafana", "linking", "create links", "link dashboards", "navigate"]
 title = "Dashboard links"

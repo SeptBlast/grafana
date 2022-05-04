@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/alerting/metrics/", "/docs/grafana/latest/alerting/unified-alerting/fundamentals"]
+aliases = ["/docs/grafana/latest/alerting/metrics/", "/docs/grafana/latest/alerting/unified-alerting/fundamentals/"]
 title = "Alerting fundamentals"
 weight = 120
 +++

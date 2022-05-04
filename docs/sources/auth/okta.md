@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/auth/okta"]
+aliases = ["/docs/grafana/latest/auth/okta/"]
 description = "Grafana Okta OAuth Guide "
 keywords = ["grafana", "configuration", "documentation", "oauth"]
 title = "Okta OAuth2 authentication"

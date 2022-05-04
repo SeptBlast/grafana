@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/activate-aws-marketplace-license/manage-license-in-aws-marketplace", "/docs/grafana/latest/enterprise/license/activate-aws-marketplace-license/manage-license-in-aws-marketplace"]
+aliases = ["/docs/grafana/latest/enterprise/license/activate-aws-marketplace-license/manage-license-in-aws-marketplace/", "/docs/grafana/latest/enterprise/activate-aws-marketplace-license/manage-license-in-aws-marketplace/"]
 description = "Manage your Grafana Enterprise license in AWS Marketplace"
 keywords = ["grafana", "enterprise", "aws", "marketplace", "manage", "add", "remove", "users"]
 title = "Manage your Grafana Enterprise license in AWS Marketplace"

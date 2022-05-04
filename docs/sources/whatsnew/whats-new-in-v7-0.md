@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/guides/whats-new-in-v7-0/", "/docs/grafana/latest/whatsnew/whats-new-in-v7-0"]
+aliases = ["/docs/grafana/latest/whatsnew/whats-new-in-v7-0/", "/docs/grafana/latest/guides/whats-new-in-v7-0/"]
 description = "Feature and improvement highlights for Grafana v7"
 keywords = ["grafana", "new", "documentation", "7.0", "release notes"]
 title = "What's New in Grafana v7.0"

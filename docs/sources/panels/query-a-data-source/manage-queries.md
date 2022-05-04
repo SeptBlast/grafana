@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/sources/panels/query-a-data-source/manage-queries/", "/docs/grafana/latest/panels/query-a-data-source/manage-queries"]
+aliases = ["/docs/sources/panels/query-a-data-source/manage-queries/", "/docs/grafana/latest/panels/query-a-data-source/manage-queries/"]
 title = "Manage queries"
 weight = 50
 +++

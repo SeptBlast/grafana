@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/usage-insights/dashboard-datasource-insights.md", "/docs/grafana/latest/enterprise/usage-insights/dashboard-datasource-insights"]
+aliases = ["/docs/grafana/latest/enterprise/usage-insights/dashboard-datasource-insights/", "/docs/grafana/latest/enterprise/usage-insights/dashboard-datasource-insights.md/"]
 description = "Understand how your dashboards and data sources are used"
 keywords = ["grafana", "usage-insights", "enterprise"]
 title = "Dashboard and data source insights"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/datasources/tempo", "/docs/grafana/latest/datasources/tempo"]
+aliases = ["/docs/grafana/latest/datasources/tempo/", "/docs/grafana/latest/features/datasources/tempo/"]
 description = "High volume, minimal dependency trace storage. OSS tracing solution from Grafana Labs."
 keywords = ["grafana", "tempo", "guide", "tracing"]
 title = "Tempo"

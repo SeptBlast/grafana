@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/visualizations/text-panel", "/docs/grafana/latest/reference/alertlist/", "/docs/grafana/latest/features/panels/text/", "/docs/grafana/latest/panels/visualizations/text-panel/"]
+aliases = ["/docs/grafana/latest/panels/visualizations/text-panel/", "/docs/grafana/latest/visualizations/text-panel/", "/docs/grafana/latest/reference/alertlist/", "/docs/grafana/latest/features/panels/text/"]
 keywords = ["grafana", "text", "documentation", "panel"]
 title = "Text"
 weight = 1100

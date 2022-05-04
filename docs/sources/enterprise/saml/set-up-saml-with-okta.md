@@ -1,6 +1,6 @@
 ---
 aliases:
-  - /docs/grafana/latest/enterprise/saml/set-up-saml-with-okta
+  - /docs/grafana/latest/enterprise/saml/set-up-saml-with-okta/
 description: This is a guide to set up SAML authentication with Okta in Grafana
 keywords:
   - grafana

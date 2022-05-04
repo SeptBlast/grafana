@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/reference/playlist/", "/docs/grafana/latest/dashboards/playlist"]
+aliases = ["/docs/grafana/latest/dashboards/playlist/", "/docs/grafana/latest/reference/playlist/"]
 keywords = ["grafana", "dashboard", "documentation", "playlist"]
 title = "Playlist"
 weight = 9

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/usage-insights/improved-search.md", "/docs/grafana/latest/enterprise/usage-insights/improved-search"]
+aliases = ["/docs/grafana/latest/enterprise/usage-insights/improved-search/", "/docs/grafana/latest/enterprise/usage-insights/improved-search.md/"]
 description = "Sort dashboards by using insights data"
 keywords = ["grafana", "search", "sort", "enterprise"]
 title = "Sort dashboards by using insights data"

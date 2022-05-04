@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/permissions/dashboard_folder_permissions/", "/docs/grafana/latest/administration/manage-users-and-permissions/manage-dashboard-permissions/", "/docs/grafana/latest/administration/manage-users-and-permissions/manage-dashboard-permissions"]
+aliases = ["/docs/grafana/latest/administration/manage-users-and-permissions/manage-dashboard-permissions/", "/docs/grafana/latest/permissions/dashboard_folder_permissions/"]
 title = "Manage dashboard permissions"
 weight = 500
 +++

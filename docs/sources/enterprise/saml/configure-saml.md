@@ -1,6 +1,6 @@
 ---
 aliases:
-  - /docs/grafana/latest/enterprise/saml/configure-saml
+  - /docs/grafana/latest/enterprise/saml/configure-saml/
   - /docs/grafana/latest/auth/saml/
 description: This contains information on how to configure SAML authentication in
   Grafana

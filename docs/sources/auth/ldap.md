@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/installation/ldap/", "/docs/grafana/latest/auth/ldap"]
+aliases = ["/docs/grafana/latest/auth/ldap/", "/docs/grafana/latest/installation/ldap/"]
 description = "Grafana LDAP Authentication Guide "
 keywords = ["grafana", "configuration", "documentation", "ldap", "active directory"]
 title = "LDAP Authentication"

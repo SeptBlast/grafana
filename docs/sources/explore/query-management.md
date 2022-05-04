@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/explore/query-management"]
+aliases = ["/docs/grafana/latest/explore/query-management/"]
 keywords = ["explore", "loki", "logs"]
 title = "Query management"
 weight = 10

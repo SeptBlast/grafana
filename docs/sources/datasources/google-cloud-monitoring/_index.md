@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/next/datasources/cloudmonitoring/", "/docs/grafana/next/features/datasources/cloudmonitoring/", "/docs/grafana/latest/datasources/google-cloud-monitoring", "/docs/grafana/latest/features/datasources/stackdriver"]
+aliases = ["/docs/grafana/latest/datasources/google-cloud-monitoring/", "/docs/grafana/next/datasources/cloudmonitoring/", "/docs/grafana/next/features/datasources/cloudmonitoring/", "/docs/grafana/latest/features/datasources/stackdriver/"]
 description = "Guide for using Google Cloud Monitoring in Grafana"
 keywords = ["grafana", "stackdriver", "google", "guide", "cloud", "monitoring"]
 title = "Google Cloud Monitoring"

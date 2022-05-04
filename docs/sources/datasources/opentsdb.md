@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/opentsdb", "/docs/grafana/latest/features/datasources/opentsdb/", "/docs/grafana/latest/datasources/opentsdb"]
+aliases = ["/docs/grafana/latest/features/opentsdb/", "/docs/grafana/latest/features/datasources/opentsdb/", "/docs/grafana/latest/datasources/opentsdb/"]
 description = "Guide for using OpenTSDB in Grafana"
 keywords = ["grafana", "opentsdb", "guide"]
 title = "OpenTSDB"

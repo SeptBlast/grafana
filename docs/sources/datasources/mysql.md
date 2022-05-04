@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/datasources/mysql/", "/docs/grafana/latest/datasources/mysql"]
+aliases = ["/docs/grafana/latest/datasources/mysql/", "/docs/grafana/latest/features/datasources/mysql/"]
 description = "Guide for using MySQL in Grafana"
 keywords = ["grafana", "mysql", "guide"]
 title = "MySQL"

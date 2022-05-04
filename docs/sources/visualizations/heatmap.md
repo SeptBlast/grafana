@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/panels/heatmap/", "/docs/grafana/latest/visualizations/heatmap"]
+aliases = ["/docs/grafana/latest/visualizations/heatmap/", "/docs/grafana/latest/features/panels/heatmap/"]
 description = "Heatmap visualization documentation"
 keywords = ["grafana", "heatmap", "panel", "documentation"]
 title = "Heatmap"

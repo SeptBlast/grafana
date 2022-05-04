@@ -1,7 +1,7 @@
 ---
 aliases:
+  - /docs/grafana/latest/enterprise/saml/troubleshoot-saml/
   - /docs/grafana/latest/auth/saml/
-  - /docs/grafana/latest/enterprise/saml/troubleshoot-saml
 description: This contains information on how to troubleshoot SAML authentication
   in Grafana
 keywords:

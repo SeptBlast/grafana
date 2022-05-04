@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/developers/plugins/build-a-logs-data-source-plugin"]
+aliases = ["/docs/grafana/latest/developers/plugins/build-a-logs-data-source-plugin/"]
 title = "Build a logs data source plugin"
 +++
 

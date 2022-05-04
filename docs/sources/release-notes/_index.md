@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/release-notes"]
+aliases = ["/docs/grafana/latest/release-notes/"]
 title = "Release notes"
 weight = 10000
 +++

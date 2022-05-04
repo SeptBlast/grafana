@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/image_rendering/", "/docs/grafana/latest/image-rendering"]
+aliases = ["/docs/grafana/latest/image-rendering/", "/docs/grafana/latest/administration/image_rendering/"]
 description = "Image rendering"
 keywords = ["grafana", "image", "rendering", "plugin"]
 title = "Image rendering"

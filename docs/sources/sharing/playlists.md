@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/sharing/playlists"]
+aliases = ["/docs/grafana/latest/sharing/playlists/"]
 draft = "true"
 keywords = ["grafana", "dashboard", "documentation", "playlist"]
 title = "Playlists"

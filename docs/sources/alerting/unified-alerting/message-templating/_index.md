@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/alerting/unified-alerting/message-templating", "/docs/grafana/latest/alerting/message-templating/"]
+aliases = ["/docs/grafana/latest/alerting/unified-alerting/message-templating/", "/docs/grafana/latest/alerting/message-templating/"]
 description = "Message templating"
 keywords = ["grafana", "alerting", "guide", "contact point", "templating"]
 title = "Message templating"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/sources/panels/working-with-panels/download-query-results/", "/docs/grafana/latest/panels/working-with-panels/download-query-results"]
+aliases = ["/docs/grafana/latest/panels/working-with-panels/download-query-results/", "/docs/sources/panels/working-with-panels/download-query-results/"]
 title = "Download query results"
 weight = 110
 +++

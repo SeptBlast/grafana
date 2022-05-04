@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/auth/google"]
+aliases = ["/docs/grafana/latest/auth/google/"]
 description = "Grafana OAuthentication Guide "
 keywords = ["grafana", "configuration", "documentation", "oauth"]
 title = "Google OAuth2 Authentication"

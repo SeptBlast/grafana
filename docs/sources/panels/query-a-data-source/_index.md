@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/panels/query-a-data-source", "/docs/grafana/latest/panels/queries/", "/docs/grafana/latest/panels/expressions/", "/docs/grafana/latest/panels/inspect-panel/", "/docs/grafana/latest/panels/share-query-results/", "/docs/sources/panels/query-a-data-source/_index/"]
+aliases = ["/docs/grafana/latest/panels/share-query-results/", "/docs/sources/panels/query-a-data-source/_index/", "/docs/grafana/latest/panels/query-a-data-source/", "/docs/grafana/latest/panels/queries/", "/docs/grafana/latest/panels/expressions/", "/docs/grafana/latest/panels/inspect-panel/"]
 title = "Query a data source"
 weight = 200
 +++

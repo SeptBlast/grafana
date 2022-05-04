@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/view-server/view-server-settings", "/docs/grafana/latest/admin/view-server-settings/"]
+aliases = ["/docs/grafana/latest/administration/view-server/view-server-settings/", "/docs/grafana/latest/admin/view-server-settings/"]
 description = "How to view server settings in the Grafana UI"
 keywords = ["grafana", "configuration", "server", "settings"]
 title = "View server settings"

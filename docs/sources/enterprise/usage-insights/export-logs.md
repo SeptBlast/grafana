@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/usage-insights/export-logs.md", "/docs/grafana/latest/enterprise/usage-insights/export-logs"]
+aliases = ["/docs/grafana/latest/enterprise/usage-insights/export-logs.md/", "/docs/grafana/latest/enterprise/usage-insights/export-logs/"]
 description = "Export logs of usage insights"
 keywords = ["grafana", "export", "usage-insights", "enterprise"]
 title = "Export logs of usage insights"

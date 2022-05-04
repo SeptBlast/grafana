@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/sources/panels/add-panels-dynamically/configure-repeating-rows/", "/docs/grafana/latest/panels/add-panels-dynamically/configure-repeating-rows"]
+aliases = ["/docs/grafana/latest/panels/add-panels-dynamically/configure-repeating-rows/", "/docs/sources/panels/add-panels-dynamically/configure-repeating-rows/"]
 title = "Configure repeating rows"
 weight = 30
 +++

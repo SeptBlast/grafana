@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/datasources/alertmanager", "/docs/grafana/latest/datasources/alertmanager"]
+aliases = ["/docs/grafana/latest/datasources/alertmanager/", "/docs/grafana/latest/features/datasources/alertmanager/"]
 description = "Guide for using Alertmanager in Grafana"
 keywords = ["grafana", "prometheus", "guide"]
 title = "Alertmanager"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/alerting/unified-alerting/message-templating/template-functions"]
+aliases = ["/docs/grafana/latest/alerting/unified-alerting/message-templating/template-functions/"]
 keywords = ["grafana", "alerting", "guide", "contact point", "templating"]
 title = "Template functions"
 +++

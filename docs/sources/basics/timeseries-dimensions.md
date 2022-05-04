@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/guides/timeseries-dimensions", "/docs/grafana/latest/getting-started/timeseries-dimensions", "/docs/grafana/latest/basics/timeseries-dimensions"]
+aliases = ["/docs/grafana/latest/getting-started/timeseries-dimensions/", "/docs/grafana/latest/basics/timeseries-dimensions/", "/docs/grafana/latest/guides/timeseries-dimensions/"]
 description = "time series dimensions"
 keywords = ["grafana", "intro", "guide", "concepts", "timeseries", "labels"]
 title = "Time series dimensions"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/alerting/unified-alerting/difference-old-new"]
+aliases = ["/docs/grafana/latest/alerting/unified-alerting/difference-old-new/"]
 description = "What's New with Grafana alerts"
 keywords = ["grafana", "alerting", "guide"]
 title = "What's new in Grafana alerting"

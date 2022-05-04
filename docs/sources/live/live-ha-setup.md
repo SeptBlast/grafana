@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/live/live-ha-setup"]
+aliases = ["/docs/grafana/latest/live/live-ha-setup/"]
 description = "Grafana Live HA setup guide"
 keywords = ["Grafana", "live", "guide", "ha"]
 title = "Live HA setup"

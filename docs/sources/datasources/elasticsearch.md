@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/datasources/elasticsearch", "/docs/grafana/latest/datasources/elasticsearch"]
+aliases = ["/docs/grafana/latest/datasources/elasticsearch/", "/docs/grafana/latest/features/datasources/elasticsearch/"]
 description = "Guide for using Elasticsearch in Grafana"
 keywords = ["grafana", "elasticsearch", "guide"]
 title = "Elasticsearch"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/developers/plugins/add-support-for-annotations"]
+aliases = ["/docs/grafana/latest/developers/plugins/add-support-for-annotations/"]
 title = "Add support for annotations"
 +++
 

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/auth/azuread"]
+aliases = ["/docs/grafana/latest/auth/azuread/"]
 description = "Grafana Azure AD OAuth Guide "
 keywords = ["grafana", "configuration", "documentation", "oauth"]
 title = "Azure AD OAuth2 authentication"

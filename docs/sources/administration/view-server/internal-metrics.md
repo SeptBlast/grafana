@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/view-server/internal-metrics", "/docs/grafana/latest/admin/metrics/"]
+aliases = ["/docs/grafana/latest/administration/view-server/internal-metrics/", "/docs/grafana/latest/admin/metrics/"]
 description = "Internal metrics exposed by Grafana"
 keywords = ["grafana", "metrics", "internal metrics"]
 title = "Internal Grafana metrics"

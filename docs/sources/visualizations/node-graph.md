@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/panels/visualizations/node-graph/", "/docs/grafana/latest/visualizations/node-graph"]
+aliases = ["/docs/grafana/latest/visualizations/node-graph/", "/docs/grafana/latest/panels/visualizations/node-graph/"]
 keywords = ["grafana", "dashboard", "documentation", "panels", "node graph", "directed graph"]
 title = "Node graph"
 weight = 850

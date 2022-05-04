@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/alerting/add-notification-template/", "/docs/grafana/latest/alerting/old-alerting/add-notification-template"]
+aliases = ["/docs/grafana/latest/alerting/old-alerting/add-notification-template/", "/docs/grafana/latest/alerting/add-notification-template/"]
 keywords = ["grafana", "documentation", "alerting", "alerts", "notification", "templating"]
 title = "Alert notification templating"
 weight = 110

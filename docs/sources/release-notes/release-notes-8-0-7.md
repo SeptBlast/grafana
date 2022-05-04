@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/release-notes/release-notes-8-0-7"]
+aliases = ["/docs/grafana/latest/release-notes/release-notes-8-0-7/"]
 title = "Release notes for Grafana 8.0.7"
 
 [_build]

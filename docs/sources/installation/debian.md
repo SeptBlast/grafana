@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/installation/installation/debian", "/docs/grafana/latest/installation/debian"]
+aliases = ["/docs/grafana/latest/installation/debian/", "/docs/grafana/latest/installation/installation/debian/"]
 description = "Install guide for Grafana on Debian or Ubuntu"
 keywords = ["grafana", "installation", "documentation"]
 title = "Install on Debian/Ubuntu"

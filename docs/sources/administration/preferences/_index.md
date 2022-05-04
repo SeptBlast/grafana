@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/preferences/", "/docs/grafana/latest/administration/preferences"]
+aliases = ["/docs/grafana/latest/administration/preferences/"]
 title = "Preferences"
 weight = 50
 +++

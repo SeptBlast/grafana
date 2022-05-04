@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise"]
+aliases = ["/docs/grafana/latest/enterprise/"]
 description = "Grafana Enterprise overview"
 keywords = ["grafana", "documentation", "datasource", "permissions", "ldap", "licensing", "enterprise", "insights", "reporting"]
 title = "Grafana Enterprise"

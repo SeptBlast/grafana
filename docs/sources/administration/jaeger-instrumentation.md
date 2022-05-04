@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/administration/jaeger-instrumentation"]
+aliases = ["/docs/grafana/latest/administration/jaeger-instrumentation/"]
 description = "Jaeger traces emitted and propagation by Grafana"
 keywords = ["grafana", "jaeger", "tracing"]
 title = "Jaeger instrumentation"

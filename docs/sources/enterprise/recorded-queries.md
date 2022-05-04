@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/enterprise/recorded-queries"]
+aliases = ["/docs/grafana/latest/enterprise/recorded-queries/"]
 description = "Grafana Enterprise recorded queries"
 keywords = ["grafana", "query", "queries", "recorded"]
 title = "Recorded queries"

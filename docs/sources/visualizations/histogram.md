@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/features/panels/histogram/", "/docs/grafana/latest/panels/visualizations/histogram/", "/docs/grafana/latest/visualizations/histogram"]
+aliases = ["/docs/grafana/latest/visualizations/histogram/", "/docs/grafana/latest/features/panels/histogram/", "/docs/grafana/latest/panels/visualizations/histogram/"]
 description = "Histogram visualization"
 keywords = ["grafana", "docs", "bar chart", "panel", "barchart"]
 title = "Histogram"

@@ -1,5 +1,5 @@
 +++
-aliases = ["docs/sources/permissions/datasource_permissions.md", "/docs/grafana/latest/enterprise/datasource_permissions"]
+aliases = ["docs/sources/permissions/datasource_permissions.md/", "/docs/grafana/latest/enterprise/datasource_permissions/"]
 description = "Grafana Datasource Permissions Guide"
 keywords = ["grafana", "configuration", "documentation", "datasource", "permissions", "users", "teams", "enterprise"]
 title = "Data source permissions"

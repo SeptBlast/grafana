@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/auth/gitlab"]
+aliases = ["/docs/grafana/latest/auth/gitlab/"]
 description = "Grafana OAuthentication Guide "
 keywords = ["grafana", "configuration", "documentation", "oauth"]
 title = "GitLab OAuth2 Authentication"

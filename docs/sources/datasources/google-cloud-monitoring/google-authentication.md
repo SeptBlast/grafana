@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/next/datasources/cloudmonitoring/", "/docs/grafana/latest/datasources/google-cloud-monitoring/google-authentication"]
+aliases = ["/docs/grafana/latest/datasources/google-cloud-monitoring/google-authentication/", "/docs/grafana/next/datasources/cloudmonitoring/"]
 description = "Google authentication"
 keywords = ["grafana", "google", "authentication"]
 title = "Authentication"

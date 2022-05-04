@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/installation/windows"]
+aliases = ["/docs/grafana/latest/installation/windows/"]
 description = "Install Grafana on Windows"
 keywords = ["grafana", "configuration", "documentation", "windows"]
 title = "Install on Windows"

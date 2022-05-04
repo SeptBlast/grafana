@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/alerting/unified-alerting/alerting-rules/alert-annotation-label"]
+aliases = ["/docs/grafana/latest/alerting/unified-alerting/alerting-rules/alert-annotation-label/"]
 description = "Annotations and labels for alerting"
 keywords = ["grafana", "alerting", "guide", "rules", "create"]
 title = "Annotations and labels for alerting rules"

@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/linking/linking-overview", "/docs/grafana/latest/features/navigation-links/"]
+aliases = ["/docs/grafana/latest/linking/linking-overview/", "/docs/grafana/latest/features/navigation-links/"]
 keywords = ["grafana", "linking", "create links", "link panels", "link dashboards", "navigate"]
 title = "Linking overview"
 weight = 100

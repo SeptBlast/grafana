@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/panels/visualizations/bar-gauge-panel/", "/docs/grafana/latest/visualizations/bar-gauge-panel", "/docs/grafana/latest/features/panels/bar_gauge/"]
+aliases = ["/docs/grafana/latest/visualizations/bar-gauge-panel/", "/docs/grafana/latest/panels/visualizations/bar-gauge-panel/", "/docs/grafana/latest/features/panels/bar_gauge/"]
 description = "Bar gauge panel options"
 keywords = ["grafana", "bar", "bar gauge"]
 title = "Bar gauge"

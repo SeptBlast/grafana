@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/sources/panels/working-with-panels/organize-dashboard/", "/docs/grafana/latest/panels/working-with-panels/organize-dashboard"]
+aliases = ["/docs/grafana/latest/panels/working-with-panels/organize-dashboard/", "/docs/sources/panels/working-with-panels/organize-dashboard/"]
 title = "Organize a dashboard"
 weight = 80
 +++

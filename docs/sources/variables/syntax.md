@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/variables/syntax", "/docs/grafana/latest/reference/templating"]
+aliases = ["/docs/grafana/latest/variables/syntax/", "/docs/grafana/latest/reference/templating/"]
 keywords = ["grafana", "templating", "documentation", "guide", "template", "variable"]
 title = "Variable syntax"
 weight = 100

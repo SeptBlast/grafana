@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/datasources/aws-cloudwatch/template-queries-cloudwatch", "/docs/grafana/latest/datasources/cloudwatch"]
+aliases = ["/docs/grafana/latest/datasources/cloudwatch/", "/docs/grafana/latest/datasources/aws-cloudwatch/template-queries-cloudwatch/"]
 description = "Template variables in CloudWatch queryh"
 title = "Template variables in CloudWatch query"
 weight = 10

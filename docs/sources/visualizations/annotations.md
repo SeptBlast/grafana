@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/visualizations/annotations", "/docs/grafana/latest/features/panels/anotations/", "/docs/grafana/latest/panels/visualizations/annotations/"]
+aliases = ["/docs/grafana/latest/visualizations/annotations/", "/docs/grafana/latest/features/panels/anotations/", "/docs/grafana/latest/panels/visualizations/annotations/"]
 description = "Annotations visualization documentation"
 keywords = ["grafana", "Annotations", "panel", "documentation"]
 title = "Annotations"

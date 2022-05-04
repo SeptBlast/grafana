@@ -1,5 +1,5 @@
 +++
-aliases = ["/docs/grafana/latest/reference/table/", "/docs/grafana/latest/features/panels/table_panel/", "/docs/grafana/next/panels/visualizations/table/table-field-options/", "/docs/grafana/latest/panels/visualizations/table/filter-table-columns/", "/docs/grafana/latest/visualizations/table/filter-table-columns"]
+aliases = ["/docs/grafana/next/panels/visualizations/table/table-field-options/", "/docs/grafana/latest/panels/visualizations/table/filter-table-columns/", "/docs/grafana/latest/visualizations/table/filter-table-columns/", "/docs/grafana/latest/reference/table/", "/docs/grafana/latest/features/panels/table_panel/"]
 keywords = ["grafana", "table options", "documentation", "format tables", "table filter", "filter columns"]
 title = "Filter table columns"
 weight = 600
