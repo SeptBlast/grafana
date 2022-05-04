@@ -20,7 +20,7 @@ COPY emails emails
 ENV NODE_ENV production
 RUN yarn build
 
-FROM golang:1.17.9-alpine3.15 as go-builder
+FROM golang:1.18.1-alpine3.15 as go-builder
 
 RUN apk add --no-cache gcc g++ make
 
@@ -40,7 +40,7 @@ RUN go mod verify
 RUN make build-go
 
 # Final stage
-FROM alpine:3.15
+FROM alpine:3.15.4
 
 LABEL maintainer="Grafana team <hello@grafana.com>"
 
